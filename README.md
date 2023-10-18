@@ -1,2 +1,3 @@
 # macadams_katrina_ogbeide_osarieme_midterm
-Colours
+This is the our Multimedia Authoring Class midterm project
+
